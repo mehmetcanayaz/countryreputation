@@ -1,2 +1,5 @@
-# countryreputation
-This project studies the ramifications of country reputation on corporate sales. Code is shared.
+# Country Reputation and Corporate Activity
+
+I provide the necessary criteria for a 5% test on our IV procedure based on Lee, McCrary, Moreira, and Porter (2022).
+
+The necessary content can be found in Section A.7 (see page 19) of Lee, McCrary, Moreira, and Porter (2022)’s Online Appendix at http://www.princeton.edu/~davidlee/wp/tfNBERfinal_appendix.pdf. 
