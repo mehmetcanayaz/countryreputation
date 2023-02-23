@@ -14,4 +14,4 @@ We compile a list of promotion agencies using data from various resources. Part 
 The code estimates the critical value for our IV coefficient as in Lee, McCrary, Moreira, Porter (2022). We provide the necessary criteria for a 5% test on our IV procedure. The necessary content can be found in Section A.7 (see pages 13-20) of Lee, McCrary, Moreira, and Porter (2022)’s Online Appendix at http://www.princeton.edu/~davidlee/wp/tfNBERfinal_appendix.pdf. 
 
 #### CountryNames.do:
-This code cleans segment country names based on other dataframes. It contains ~14,000 lines of code.
+This code cleans and revises (segment) country names based on other dataframes that are used in empirical analyses. It contains ~14,000 lines of code.
