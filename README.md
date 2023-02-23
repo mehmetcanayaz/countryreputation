@@ -12,3 +12,7 @@ This file contains the terror dataset used in our analyses. As described in the 
 
 #### IPA1.dta:
 We compile a list of promotion agencies using data from various resources. Part of our data comes from country promotion agencies from the website of World Association of Investment Promotion Agencies (WAIPA). WAIPA is an international organization established in 1995 to provide networking opportunities for agencies acting as a forum. It has 170 members from 130 countries. We identify agencies disclosed in the Members List section of the website, augmented with a set of promotion agencies listed in the Appendices of two UNCTAD papers (UNCTAD Advisory Paper 14, 1999 and UNCTAD Advisory Paper, 2001). The foundation years are obtained from individual agency websites, and in cases where this information is missing, we proxy it with promotion agency website creation years. 
+
+#### IPA1.dta:
+The code estimates the critical value for our IV coefficient as in Lee, McCrary, Moreira, Porter (2022).
+
