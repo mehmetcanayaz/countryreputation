@@ -1,4 +1,4 @@
-# Country Reputation and Corporate Activity (Code update is in progress)
+# Code and Data for Country Reputation and Corporate Activity  
 
 I provide the necessary criteria for a 5% test on our IV procedure based on Lee, McCrary, Moreira, and Porter (2022).
 
